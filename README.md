@@ -7,7 +7,7 @@ Será necessário ter instalado no servidor:
  * firefox
  
 
-Baixe o arquivos ephemeral-x.sh e teste-nightwatch.js deste repositório
+Baixe os arquivos ephemeral-x.sh e teste-nightwatch.js deste repositório
 
 
 Rode os comandos:
