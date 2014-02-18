@@ -1,6 +1,6 @@
 Configurações para rodar o nightwatch js (http://nightwatchjs.org) em um servidor sem modo gráfico (Ubuntu server, por exemplo)
 
-Será necessário instalar no servidor:
+Será necessário ter instalado no servidor:
 
  * Java
  * Node js (Versão atualizada)
