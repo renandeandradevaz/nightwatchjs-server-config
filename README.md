@@ -4,6 +4,7 @@ Será necessário ter instalado no servidor:
 
  * Java
  * Node js (Versão atualizada)
+ * xvfb (sudo apt-get install xvfb)
  * firefox
  
 
@@ -29,6 +30,6 @@ $ nohup sh ephemeral-x.sh -x "Xvfb -ac -screen 0 1024x768x24" java -jar node_mod
 Em outra aba, rode o teste:
 
 ```sh
-$ bash node_modules/nightwatch/bin/nightwatch -t teste-nightwatch.js
+$ ./node_modules/nightwatch/bin/nightwatch -t teste-nightwatch.js
 ```
 
